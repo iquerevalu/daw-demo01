@@ -201,6 +201,7 @@ public class FrmManteProd extends JFrame {
 
 		em.close();
 	}
+	//inés viviana prueba
 
 	void listado() {
 		// listado de la tabla productos
