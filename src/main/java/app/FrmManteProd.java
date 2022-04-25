@@ -159,6 +159,7 @@ public class FrmManteProd extends JFrame {
 	}
 
 	void BuscarProducto() {
+		//buscar productos
 		EntityManagerFactory fabrica = Persistence.createEntityManagerFactory("mysql");
 		EntityManager em = fabrica.createEntityManager();
 
